@@ -1,6 +1,7 @@
 # C-Compiler
 
-This is a C compiler project that I developed to deepen my understanding of compiler design and low-level programming. \n My compiler supports basic arithmetic operations and demonstrates the core phases of compilation from lexical analysis to code generation.
+This is a C compiler project that I developed to deepen my understanding of compiler design and low-level programming.
+My compiler supports basic arithmetic operations and demonstrates the core phases of compilation from lexical analysis to code generation.
 
 ## Overview
 
