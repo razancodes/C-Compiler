@@ -98,5 +98,6 @@ Feel free to open issues or submit pull requests if something doesnt work...
 Open source for educational and experimental use.
 
 ## Author
-**razancodes**
+**razancodes** :)
+
 
